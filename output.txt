@@ -1,0 +1,85 @@
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 1
+
+	a | IDENTIFIERS | Rule Used: E -> TQ. Line - 1
+
+	+ | OPERATORS | Rule Used: Q -> +TQ. Line - 1
+
+	b | IDENTIFIERS | Rule Used: T -> FR. Line - 1
+
+	z | IDENTIFIERS | Rule Used: S-> i = E. Line - 1
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 2
+
+	c | IDENTIFIERS | Rule Used: E -> TQ. Line - 2
+
+	+ | OPERATORS | Rule Used: Q -> +TQ. Line - 2
+
+	d | IDENTIFIERS | Rule Used: T -> FR. Line - 2
+
+	a | IDENTIFIERS | Rule Used: S-> i = E. Line - 2
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 3
+
+	e | IDENTIFIERS | Rule Used: E -> TQ. Line - 3
+
+	- | OPERATORS | Rule Used: Q -> -TQ. Line - 3
+
+	f | IDENTIFIERS | Rule Used: T -> FR. Line - 3
+
+	b | IDENTIFIERS | Rule Used: S-> i = E. Line - 3
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 4
+
+	g | IDENTIFIERS | Rule Used: E -> TQ. Line - 4
+
+	* | OPERATORS | Rule Used: R -> +FR. Line - 4
+
+	n | IDENTIFIERS | Rule Used: S-> i = E. Line - 4
+
+	while | KEYWORDS | Rule Used: <While Non-Terminal> -> While <While statement body> do Line - 4
+
+	if | KEYWORDS | Rule Used: <if Non-Terminal> -> if <if statement body> then Line - 5
+
+	( | SEPARATOR | Rule Used: F -> (E) | i. Line - 6
+
+	x | IDENTIFIERS | Rule Used: E -> TQ. Line - 6
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 6
+
+	b | IDENTIFIERS | Rule Used: E -> TQ. Line - 6
+
+	) | SEPARATOR | Rule Used: Q -> Epsilon. Line - 6
+
+	then | KEYWORDS | Rule Used: <if Non-Terminal> -> if <if statement body> then Line - 6
+
+	do | KEYWORDS | Rule Used: <while Non-Terminal> -> while <while statement body> do Line - 6
+
+	bool | KEYWORDS | Rule Used: <bool non-Terminal> -> bool S. Line - 7
+
+	BYAN | IDENTIFIERS | Rule Used: S-> i = E. Line - 8
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 8
+
+	false | IDENTIFIERS | Rule Used: E -> TQ. Line - 8
+
+	int | KEYWORDS | Rule Used: <int non-Terminal> -> int S. Line - 8
+
+	TOMMYsPhone | IDENTIFIERS | Rule Used: S-> i = E. Line - 9
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 9
+
+	9494664744 | INT | Rule Used: S -> i = E. Line - 9
+
+	x | IDENTIFIERS | Rule Used: S-> i = E. Line - 9
+
+	= | OPERATORS | Rule Used: S-> i = E. Line - 10
+
+	b | IDENTIFIERS | Rule Used: E -> TQ. Line - 10
+
+	* | OPERATORS | Rule Used: R -> +FR. Line - 10
+
+	b | IDENTIFIERS | Rule Used: S-> i = E. Line - 10
+
+
+Success! No Errors in this code!.

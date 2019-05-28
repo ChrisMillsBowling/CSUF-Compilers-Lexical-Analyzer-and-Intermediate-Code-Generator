@@ -1,0 +1,10 @@
+x=a + b;
+z=c+ d;
+a=e-f;
+b=g*n;
+while
+if (x = b) then
+do
+bool BYAN = false
+int TOMMYsPhone = 9494664744
+x = b * b;
